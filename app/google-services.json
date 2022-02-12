@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "182214941648",
+    "firebase_url": "https://barberapp-12860-default-rtdb.firebaseio.com",
+    "project_id": "barberapp-12860",
+    "storage_bucket": "barberapp-12860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182214941648:android:e63675ef68cac9b0eab7d5",
+        "android_client_info": {
+          "package_name": "com.example.barberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPo55pgcYaqTJpBR0iam6RiGy6THeWCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182214941648:android:85e9fe32344d4b42eab7d5",
+        "android_client_info": {
+          "package_name": "com.example.barberstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPo55pgcYaqTJpBR0iam6RiGy6THeWCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182214941648:android:a94289446e65405deab7d5",
+        "android_client_info": {
+          "package_name": "com.example.hw1_eylon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSPo55pgcYaqTJpBR0iam6RiGy6THeWCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182214941648-msj8975jmd0ee95icli7fi6f8prt43g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
